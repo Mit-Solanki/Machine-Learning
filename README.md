@@ -3,9 +3,9 @@
 
 ## 📘 Detailed Description
 
-### 🧪 Lab Google Colab Codes
+### 🧪 Lab Experiment
 
-This folder includes codes which I do in labs of machie learning
+This folder includes codes which I did in labs of machie learning
 
 ---
 
@@ -19,7 +19,3 @@ It contains set of Previous Year Questions and practice questions with solutions
 Project related information readme is in Project folder
 
 ---
-
-### 📝 Submissions
-
-it contains submission related files which i upload in canvas
